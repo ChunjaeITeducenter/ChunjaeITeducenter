@@ -1,4 +1,4 @@
-### Hi there 👋
+### 천재IT교육센터 👋
 
 <!--
 **ChunjaeITeducenter/ChunjaeITeducenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
